@@ -36,6 +36,18 @@ I enjoy building practical, user‑focused applications — from educational too
 
 ## 🛠️ Projects
 
+### **CV Project – Personal Portfolio Website**
+
+HTML, CSS, Bootstrap, GitHub Pages
+
+A fully responsive personal CV/portfolio website built from scratch
+Custom layout and design showcasing professional experience and skills
+Deployed using GitHub Pages for fast and reliable hosting
+Organized, well‑structured code following best practices
+
+**Live Demo:**  
+[Live Demo](https://anasztazia12.github.io/cv-project/)
+
 ### **Business Card Generator App**
 A web application that allows users to create and customize business cards easily.
 
