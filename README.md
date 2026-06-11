@@ -37,44 +37,23 @@ I enjoy building practical, user‑focused applications — from educational too
 ## 🛠️ Projects
 
 ### **CV Project – Personal Portfolio Website**
-
-HTML, CSS, Bootstrap, GitHub Pages
-
-A fully responsive personal CV/portfolio website built from scratch
-Custom layout and design showcasing professional experience and skills
-Deployed using GitHub Pages for fast and reliable hosting
-Organized, well‑structured code following best practices
-
 **Live Demo:**  
 [Live Demo](https://anasztazia12.github.io/cv-project/)
 
 ### **Business Card Generator App**
-A web application that allows users to create and customize business cards easily.
-
----
+**Live Demo:**  
 
 ### **Maths Challenge (Ages 8–9 | Years 4 & 5)**
-An interactive maths game covering all basic operations with multiple difficulty levels.  
-Includes 6‑second and 12‑second timed challenges to help children prepare for their end‑of‑year assessment.
-
----
+**Live Demo:**  
+[Live Demo](https://anasztazia12.github.io/Maths-Challenge/)
 
 ### **Budgeting App**
-A budgeting tool that helps users understand their finances through:
-- income & expense tracking  
-- automatic charts  
-- “what if” forecasting scenarios  
-Perfect for visualising how financial decisions affect the overall budget.
-
----
+**Live Demo:**  
+[Live Demo](https://anasztazia12.github.io/budgeting/)
 
 ### **Fishing Logbook App**
-A personal fishing diary where users can record their fishing experiences.  
-Features include saving:
-- photos  
-- locations  
-- notes & memories  
-Everything stored in one place to track catches and relive fishing moments.
+**Live Demo:**  
+[Live Demo](https://anasztazia12.github.io/fishing-logbook/)
 
 ---
 
