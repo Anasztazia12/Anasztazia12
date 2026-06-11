@@ -37,23 +37,19 @@ I enjoy building practical, user‑focused applications — from educational too
 ## 🛠️ Projects
 
 ### **CV Project – Personal Portfolio Website**
-**Live Demo:**  
-[Live Demo](https://anasztazia12.github.io/cv-project/)
+**Live Demo:**  [Live Demo](https://anasztazia12.github.io/cv-project/)
 
 ### **Business Card Generator App**
 **Live Demo:**  
 
 ### **Maths Challenge (Ages 8–9 | Years 4 & 5)**
-**Live Demo:**  
-[Live Demo](https://anasztazia12.github.io/Maths-Challenge/)
+**Live Demo:**  [Live Demo](https://anasztazia12.github.io/Maths-Challenge/)
 
 ### **Budgeting App**
-**Live Demo:**  
-[Live Demo](https://anasztazia12.github.io/budgeting/)
+**Live Demo:**  [Live Demo](https://anasztazia12.github.io/budgeting/)
 
 ### **Fishing Logbook App**
-**Live Demo:**  
-[Live Demo](https://anasztazia12.github.io/fishing-logbook/)
+**Live Demo:**  [Live Demo](https://anasztazia12.github.io/fishing-logbook/)
 
 ---
 
