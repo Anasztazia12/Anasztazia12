@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I am Anasztázia 👋
 
 I'm a Web Application Developer currently studying at Code Institute and South Staffordshire College.  
 I enjoy building practical, user‑focused applications — from educational tools to personal productivity and hobby apps.
