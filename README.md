@@ -24,6 +24,9 @@ I enjoy building practical, user‑focused applications — from educational too
 
 ### **Cloud / Hosting**
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-0099FF?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
