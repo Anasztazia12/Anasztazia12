@@ -74,14 +74,16 @@ educational tools, small business systems, productivity and hobby apps.
 
 | Project | Stack | Links |
 | --- | --- | --- |
-| **Client Portal**: document collection portal with staff and client roles | Python · Django · SQLite | [Demo](https://client-portal-demo-1.onrender.com) · [Code](https://github.com/Anasztazia12/client_portal_demo) |
+| **Client Portal**: document collection portal with staff and client roles | Python · Django · SQLite | [Demo](https://client-portal-demo-1.onrender.com) |
 | **WorkCafe**: café finder for remote workers, with a map and accounts | Python · Django · PostgreSQL · Leaflet | [Demo](https://workcafe-app-4f1f130b7d49.herokuapp.com/) · [Code](https://github.com/Anasztazia12/milestone3) |
 | **Pergola Calculator**: 3D configurator that turns a design into a material list and price *(client project)* | JavaScript · Babylon.js · Firebase | [Live](https://pergolakalkulator.com/calculator) |
 | **Budgeting App**: budgeting with debt tracking and what-if forecasts | JavaScript · Firebase · Chart.js · Jest | [Demo](https://anasztazia12.github.io/budgeting) · [Code](https://github.com/Anasztazia12/budgeting) |
 | **Northline Gas & Heating**: quote form that sorts requests with AI and flags emergencies | HTML · CSS · Firebase · Make · AI | [Live](https://northline-gas.web.app/) |
-| **Anne Hair Studio**: salon site with a booking calendar | HTML · CSS · JavaScript | [Live](https://anne-hair-studio.web.app/) · [Code](https://github.com/Anasztazia12/hairdresser) |
-| **LaunchTrack LMS**: staff training with quizzes and certificates | Python · Django | [Demo](https://lms-demo-w8lj.onrender.com) · [Code](https://github.com/Anasztazia12/lms-demo) |
+| **Anne Hair Studio**: salon site with a booking calendar | HTML · CSS · JavaScript | [Live](https://anne-hair-studio.web.app/) |
+| **LaunchTrack LMS**: staff training with quizzes and certificates | Python · Django | [Demo](https://lms-demo-w8lj.onrender.com) |
 | **Fishing Logbook**: offline-first catch log | JavaScript · Supabase | [Demo](https://fishing-logbook.amethyst-nexalune.co.uk/) · [Code](https://github.com/Anasztazia12/fishing-logbook) |
+| **Quote Tracker**: quotes, follow-ups and reminders in one place, with one-click acceptance | JavaScript | [Demo](https://quote-demo.onrender.com) |
+| **Maths Challenge**: timed maths game for children aged 8–9, with progress tracking and avatars | HTML · CSS · JavaScript | [Demo](https://maths-challenge.amethyst-nexalune.co.uk/) · [Code](https://github.com/Anasztazia12/Maths-Challenge) |
 
 👉 Full case studies are in my [portfolio repository](https://github.com/Anasztazia12/portfolio).
 
@@ -114,11 +116,3 @@ educational tools, small business systems, productivity and hobby apps.
 [![Email](https://img.shields.io/badge/Email-contact%40amethyst--nexalune.co.uk-6C3483?style=for-the-badge)](mailto:contact@amethyst-nexalune.co.uk)
 
 </div>
-**Thanks for stopping by!** If you'd like to work together or just say hi, get in touch 👇
-
-[![Website](https://img.shields.io/badge/Website-amethyst--nexalune.co.uk-6C3483?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.amethyst-nexalune.co.uk)
-[![Email](https://img.shields.io/badge/Email-contact%40amethyst--nexalune.co.uk-6C3483?style=for-the-badge)](mailto:contact@amethyst-nexalune.co.uk)
-
-</div>
-
-
