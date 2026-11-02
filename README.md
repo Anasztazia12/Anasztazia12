@@ -1,64 +1,54 @@
-## Hi, I am Anasztázia 👋
+# Anasztázia Karalyos-Kecskés
 
-I'm a Web Application Developer currently studying at Code Institute/South Staffordshire College.  
-I enjoy building practical, user‑focused applications — from educational tools to personal productivity and hobby apps.
+**Web Application Developer** · Looking for a junior web developer role in the UK
 
----
+I build web applications with Python, Django and JavaScript, from the database model to a deployed, tested app. I am studying for a Level 5 Diploma in Web Application Development (South Staffordshire College and Code Institute, expected 2027) and have worked as a freelance developer since August 2026.
 
-## 🧰 Tech Stack
+Before moving into tech I spent nine years as a pharmacy assistant and several years in education and care, which taught me to check details carefully and to think about the people who use what I build.
 
-### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### **Backend**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### **Tools & DevOps**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### **Cloud / Hosting**
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-0099FF?style=for-the-badge&logo=render&logoColor=white)
+**Portfolio and case studies:** [link to my portfolio](PORTFOLIO_URL)  
+**Business site:** [amethyst-nexalune.co.uk](https://www.amethyst-nexalune.co.uk)
 
 ---
 
-## 🎓 Tech Certifications
-- Level 5 Web Application Development (2027 expected)
-- Responsive Web Design Developer Certification (2026)
-- Principles of Cyber Security – Level 2 (2024)
+## Tech stack
+
+| | |
+| --- | --- |
+| **Backend** | Python, Django, Node.js, REST APIs, C# (learning) |
+| **Frontend** | JavaScript (ES6+), HTML, CSS, Bootstrap, Chart.js, Leaflet, Babylon.js |
+| **Data** | PostgreSQL, SQLite, MySQL, Firebase (Auth, Firestore, Cloud Functions), Supabase |
+| **Testing** | Django TestCase, Jest, Playwright, manual testing, W3C validation |
+| **Tools** | Git, GitHub, VS Code, Heroku, Render, Vercel, Make, Agile / Kanban |
 
 ---
 
-## 🛠️ Projects
+## Selected projects
 
-🧾 **CV Project – Personal Portfolio Website**  
-[Live Demo](https://anasztazia12.github.io/cv-project/)
+| Project | What it is | Stack | Links |
+| --- | --- | --- | --- |
+| **Client Portal** | Document collection portal with staff and client roles, versioned uploads and reminder emails | Python, Django, SQLite | [Demo](https://client-portal-demo-1.onrender.com) · [Code](https://github.com/Anasztazia12/client_portal_demo) |
+| **WorkCafe** | Café finder for remote workers with a map, accounts, CRUD with ownership checks and 8 automated tests | Python, Django, PostgreSQL, Leaflet | [Demo](https://workcafe-app-4f1f130b7d49.herokuapp.com/) · [Code](https://github.com/Anasztazia12/milestone3) |
+| **Pergola Calculator** | 3D configurator for a construction company; price formulas run privately in Cloud Functions | JavaScript, Babylon.js, Firebase | [Live](https://pergolakalkulator.com/calculator) |
+| **Budgeting App** | Budgeting with debt tracking, what-if forecasts and 24 Jest unit tests | JavaScript, Firebase, Chart.js, Jest | [Demo](https://anasztazia12.github.io/budgeting) · [Code](https://github.com/Anasztazia12/budgeting) |
+| **Northline Gas & Heating** | Website with a Make automation that sorts quote requests with AI and flags emergencies | HTML, CSS, Firebase, Make | [Live](https://northline-gas.web.app/) |
+| **Anne Hair Studio** | Salon website with a booking calendar written in plain JavaScript | HTML, CSS, JavaScript | [Live](https://anne-hair-studio.web.app/) · [Code](https://github.com/Anasztazia12/hairdresser) |
 
-
-💰 **Budgeting App**  
-[Live Demo](https://anasztazia12.github.io/budgeting/)
-
-
-🪪 **Business Card Generator App**  
-
-
-🎣 **Fishing Logbook App**  
-[Live Demo](https://anasztazia12.github.io/fishing-logbook/)
-
-
-🎯 **Maths Challenge (Ages 8–9 | Years 4 & 5)**  
-[Live Demo](https://anasztazia12.github.io/Maths-Challenge/)
-
+**More:** [LaunchTrack LMS](https://github.com/Anasztazia12/lms-demo) · [Quote Tracker](https://github.com/Anasztazia12/quote-demo) · [Rental Tracker](https://github.com/Anasztazia12/rental-demo) · [Fishing Logbook](https://github.com/Anasztazia12/fishing-logbook) · [Maths Challenge](https://github.com/Anasztazia12/Maths-Challenge)
 
 ---
 
-## 📫 Contact
-Feel free to reach out or explore my repositories!
+## Education and certifications
+
+- **Level 5 Diploma in Web Application Development** – South Staffordshire College and Code Institute (expected 2027)
+- Foundational C# with Microsoft – freeCodeCamp and Microsoft (2026) · [verify](https://www.freecodecamp.org/certification/anisz12/foundational-c-sharp-with-microsoft)
+- Responsive Web Design – freeCodeCamp (2026) · [verify](https://www.freecodecamp.org/certification/anisz12/responsive-web-design-v9)
+- Make Certified: Level 3 Intermediate – Make Academy (2026)
+- Level 2 Certificate in the Principles of Cyber Security – NCFE (2024)
+
+---
+
+## Contact
+
+[kecskes.anasztazia@gmail.com](mailto:kecskes.anasztazia@gmail.com) · English and Hungarian
+
