@@ -6,6 +6,7 @@
 
 I build practical, user-focused web apps, from the database model to a deployed, tested app:
 educational tools, small business systems, productivity and hobby apps.
+
 [![Website](https://img.shields.io/badge/Website-amethyst--nexalune.co.uk-6C3483?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.amethyst-nexalune.co.uk)
 [![Email](https://img.shields.io/badge/Email-contact%40amethyst--nexalune.co.uk-6C3483?style=for-the-badge)](mailto:contact@amethyst-nexalune.co.uk)
 
@@ -107,6 +108,12 @@ educational tools, small business systems, productivity and hobby apps.
 
 <div align="center">
 
+**Thanks for stopping by!** If you'd like to work together or just say hi, get in touch 👇
+
+[![Website](https://img.shields.io/badge/Website-amethyst--nexalune.co.uk-6C3483?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.amethyst-nexalune.co.uk)
+[![Email](https://img.shields.io/badge/Email-contact%40amethyst--nexalune.co.uk-6C3483?style=for-the-badge)](mailto:contact@amethyst-nexalune.co.uk)
+
+</div>
 **Thanks for stopping by!** If you'd like to work together or just say hi, get in touch 👇
 
 [![Website](https://img.shields.io/badge/Website-amethyst--nexalune.co.uk-6C3483?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.amethyst-nexalune.co.uk)
