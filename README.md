@@ -1,54 +1,96 @@
-# Anasztázia Karalyos-Kecskés
+# Hi, I'm Anasztázia 👋
 
-**Web Application Developer** · Looking for a junior web developer role in the UK
+### Junior Web Application Developer · Python · Django · JavaScript
 
-I build web applications with Python, Django and JavaScript, from the database model to a deployed, tested app. I am studying for a Level 5 Diploma in Web Application Development (South Staffordshire College and Code Institute, expected 2027) and have worked as a freelance developer since August 2026.
+I build practical, user-focused web apps, from the database model to a deployed, tested app.<br>
+Educational tools, small business systems, productivity and hobby apps.
 
-Before moving into tech I spent nine years as a pharmacy assistant and several years in education and care, which taught me to check details carefully and to think about the people who use what I build.
+[![Website](https://img.shields.io/badge/Website-amethyst--nexalune.co.uk-6C3483?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.amethyst-nexalune.co.uk)
+[![Email](https://img.shields.io/badge/Email-kecskes.anasztazia-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kecskes.anasztazia@gmail.com)
 
-**Portfolio and case studies:** [link to my portfolio](PORTFOLIO_URL)  
-**Business site:** [amethyst-nexalune.co.uk](https://www.amethyst-nexalune.co.uk)
-
----
-
-## Tech stack
-
-| | |
-| --- | --- |
-| **Backend** | Python, Django, Node.js, REST APIs, C# (learning) |
-| **Frontend** | JavaScript (ES6+), HTML, CSS, Bootstrap, Chart.js, Leaflet, Babylon.js |
-| **Data** | PostgreSQL, SQLite, MySQL, Firebase (Auth, Firestore, Cloud Functions), Supabase |
-| **Testing** | Django TestCase, Jest, Playwright, manual testing, W3C validation |
-| **Tools** | Git, GitHub, VS Code, Heroku, Render, Vercel, Make, Agile / Kanban |
+</div>
 
 ---
 
-## Selected projects
+## 👩‍💻 About me
 
-| Project | What it is | Stack | Links |
-| --- | --- | --- | --- |
-| **Client Portal** | Document collection portal with staff and client roles, versioned uploads and reminder emails | Python, Django, SQLite | [Demo](https://client-portal-demo-1.onrender.com) · [Code](https://github.com/Anasztazia12/client_portal_demo) |
-| **WorkCafe** | Café finder for remote workers with a map, accounts, CRUD with ownership checks and 8 automated tests | Python, Django, PostgreSQL, Leaflet | [Demo](https://workcafe-app-4f1f130b7d49.herokuapp.com/) · [Code](https://github.com/Anasztazia12/milestone3) |
-| **Pergola Calculator** | 3D configurator for a construction company; price formulas run privately in Cloud Functions | JavaScript, Babylon.js, Firebase | [Live](https://pergolakalkulator.com/calculator) |
-| **Budgeting App** | Budgeting with debt tracking, what-if forecasts and 24 Jest unit tests | JavaScript, Firebase, Chart.js, Jest | [Demo](https://anasztazia12.github.io/budgeting) · [Code](https://github.com/Anasztazia12/budgeting) |
-| **Northline Gas & Heating** | Website with a Make automation that sorts quote requests with AI and flags emergencies | HTML, CSS, Firebase, Make | [Live](https://northline-gas.web.app/) |
-| **Anne Hair Studio** | Salon website with a booking calendar written in plain JavaScript | HTML, CSS, JavaScript | [Live](https://anne-hair-studio.web.app/) · [Code](https://github.com/Anasztazia12/hairdresser) |
+- 🎓 Studying for a **Level 5 Diploma in Web Application Development** at **Code Institute** and **South Staffordshire College** *(expected 2027)*
+- 💼 Freelance web developer as **[Amethyst Nexalune](https://www.amethyst-nexalune.co.uk)** since August 2026, working with clients in the UK and Hungary
+- 💊 Before tech: 9 years as a pharmacy assistant and several years in education and care, so I check details carefully and build for the people who use the software
+- 🌍 English (B2) · Hungarian (native)
 
-**More:** [LaunchTrack LMS](https://github.com/Anasztazia12/lms-demo) · [Quote Tracker](https://github.com/Anasztazia12/quote-demo) · [Rental Tracker](https://github.com/Anasztazia12/rental-demo) · [Fishing Logbook](https://github.com/Anasztazia12/fishing-logbook) · [Maths Challenge](https://github.com/Anasztazia12/Maths-Challenge)
+## 🧰 Tech stack
 
----
+**Backend**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-555555?style=flat-square)
 
-## Education and certifications
+**Frontend**<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
+![Babylon.js](https://img.shields.io/badge/Babylon.js-BB464B?style=flat-square&logo=babylondotjs&logoColor=white)
 
-- **Level 5 Diploma in Web Application Development** – South Staffordshire College and Code Institute (expected 2027)
-- Foundational C# with Microsoft – freeCodeCamp and Microsoft (2026) · [verify](https://www.freecodecamp.org/certification/anisz12/foundational-c-sharp-with-microsoft)
-- Responsive Web Design – freeCodeCamp (2026) · [verify](https://www.freecodecamp.org/certification/anisz12/responsive-web-design-v9)
-- Make Certified: Level 3 Intermediate – Make Academy (2026)
-- Level 2 Certificate in the Principles of Cyber Security – NCFE (2024)
+**Databases**<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
----
+**Testing**<br>
+![Django TestCase](https://img.shields.io/badge/Django_TestCase-092E20?style=flat-square&logo=django&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
-## Contact
+**Hosting & tools**<br>
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white)
 
-[kecskes.anasztazia@gmail.com](mailto:kecskes.anasztazia@gmail.com) · English and Hungarian
+## 🚀 Featured projects
+
+| Project | Stack | Links |
+| --- | --- | --- |
+| **Client Portal**: document collection portal with staff and client roles | Python · Django · SQLite | [Demo](https://client-portal-demo-1.onrender.com) · [Code](https://github.com/Anasztazia12/client_portal_demo) |
+| **WorkCafe**: café finder for remote workers, with a map and accounts | Python · Django · PostgreSQL · Leaflet | [Demo](https://workcafe-app-4f1f130b7d49.herokuapp.com/) · [Code](https://github.com/Anasztazia12/milestone3) |
+| **Pergola Calculator**: 3D configurator that turns a design into a material list and price *(client project)* | JavaScript · Babylon.js · Firebase | [Live](https://pergolakalkulator.com/calculator) |
+| **Budgeting App**: budgeting with debt tracking and what-if forecasts | JavaScript · Firebase · Chart.js · Jest | [Demo](https://anasztazia12.github.io/budgeting) · [Code](https://github.com/Anasztazia12/budgeting) |
+| **Northline Gas & Heating**: quote form that sorts requests with AI and flags emergencies | HTML · CSS · Firebase · Make · AI | [Live](https://northline-gas.web.app/) |
+| **Anne Hair Studio**: salon site with a booking calendar | HTML · CSS · JavaScript | [Live](https://anne-hair-studio.web.app/) · [Code](https://github.com/Anasztazia12/hairdresser) |
+| **LaunchTrack LMS**: staff training with quizzes and certificates | Python · Django | [Demo](https://lms-demo-w8lj.onrender.com) · [Code](https://github.com/Anasztazia12/lms-demo) |
+| **Fishing Logbook**: offline-first catch log | JavaScript · Supabase | [Demo](https://fishing-logbook.amethyst-nexalune.co.uk/) · [Code](https://github.com/Anasztazia12/fishing-logbook) |
+
+👉 Full case studies are in my [portfolio repository](https://github.com/Anasztazia12/portfolio).
+
+## 🎓 Education & certifications
+
+| Year | Qualification | Issuer |
+| --- | --- | --- |
+| 2027 *(expected)* | **Level 5 Diploma in Web Application Development** | Code Institute & South Staffordshire College |
+| 2026 | Foundational C# with Microsoft | freeCodeCamp & Microsoft |
+| 2026 | Make Certified: Level 3 Intermediate | Make Academy |
+| 2026 | Technical SEO and AI Search Essentials | Semrush Academy |
+| 2026 | Digital Marketing | HubSpot Academy |
+| 2026 | Web Development · Prompt Engineering | Sololearn |
+| 2026 | Responsive Web Design | freeCodeCamp |
+| 2024 | Level 2 Certificate in the Principles of Cyber Security | NCFE |
+
+## 📊 GitHub stats
+
+<div align="center">
+
+![Anasztázia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anasztazia12&show_icons=true&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anasztazia12&layout=compact&hide_border=true)
+
+</div>
 
